@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+  --orange: #e38826;
+  --cyan: #006978;
+  --darke-cyan: #004241;
+  --gray: #f2f2f2;
+}
